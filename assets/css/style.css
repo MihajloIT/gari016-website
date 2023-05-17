@@ -1537,3 +1537,9 @@ section {
 
 
 }
+
+@media (max-width: 768px){
+  .footer-info{
+    text-align:center;
+  }
+}
