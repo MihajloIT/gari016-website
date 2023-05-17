@@ -758,11 +758,10 @@ section {
 /* sredjivao opciju prikazi vise */
 @media (min-width: 768px) {
 
-
-  details {
-    display: block;
-
+  details{
+    display:none;
   }
+  
 
   summary {
     display: none;
